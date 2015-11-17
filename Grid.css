@@ -2,7 +2,13 @@ div {
 	height: 100px;
 	width: 100px;
 	background-color: white;
-	border-radius: 10px;
+	border-radius: 0px;
 	border-color: black;
-	border: 3px;
+	border: 0px;
+	}
+table {
+	position: center;
+}
+html {
+	background-color: gray;
 	}
